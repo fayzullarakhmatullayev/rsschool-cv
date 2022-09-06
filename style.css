@@ -1,0 +1,147 @@
+/* Normilize */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Variables */
+
+:root {
+  --blue: #4f81bd;
+  --gray: #e6e6e6;
+  --white: #fff;
+  --black: #000;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+  background: var(--gray);
+  color: var(--black);
+}
+
+/* Page */
+.page {
+  max-width: 1000px;
+  width: 100%;
+  background: var(--white);
+  margin: 3rem auto;
+  padding: 2rem 2.5rem;
+  min-height: 100vh;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding-top: 100px;
+}
+
+.header-left {
+  border-bottom: 2px solid var(--blue);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.header-right {
+  width: 160px;
+  border: 2px solid var(--blue);
+  border-radius: 2rem;
+  overflow: hidden;
+  position: absolute;
+  top: 20px;
+  right: 50px;
+}
+.header-right img {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.header-name {
+  font-style: italic;
+}
+.header-pos {
+  margin-bottom: 20px;
+}
+
+/* Main */
+.main {
+  display: flex;
+  margin-top: 30px;
+  gap: 30px;
+}
+
+/* Aside */
+.aside {
+  max-width: 320px;
+  width: 100%;
+  background: var(--gray);
+  min-height: 500px;
+  padding: 1rem;
+}
+.aside-title {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+}
+
+/* Contacts */
+.aside-list {
+  padding-left: 15px;
+  margin-bottom: 25px;
+}
+
+.aside-list li {
+  font-size: 0.9rem;
+}
+
+.aside-list li span {
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Section */
+.section {
+  width: calc(100% - 250px);
+}
+.section-title {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.objective {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+/* experience */
+.experience {
+  list-style: none;
+  margin-bottom: 20px;
+}
+.experience > li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  font-style: italic;
+}
+.experience > li img {
+  display: block;
+  margin-right: 1rem;
+  width: 20px;
+}
+
+.experience-title p {
+  font-weight: 600;
+}
+
+.tasks {
+  list-style: disc;
+  padding-left: 20px;
+}
