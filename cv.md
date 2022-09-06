@@ -2,8 +2,6 @@
 
 ## Frontend Developer
 
----
-
 ### Contacts:
 
 - _Location:_ Tashkent, Uzbekistan
@@ -27,10 +25,10 @@ continue to look for ways to improve productivity.
 
 ### Experience
 
-**Position:** Frontend Developer
-**Company name:** Prospect
-**Location:** Tashkent, Uzbekistan
-**Duration:** February 2021. – up to present
+- **Position:** Frontend Developer
+- **Company name:** Prospect
+- **Location:** Tashkent, Uzbekistan
+- **Duration:** February 2021. – up to present
 
 _Responsibilities:_
 
