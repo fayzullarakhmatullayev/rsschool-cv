@@ -9,7 +9,7 @@
 - _Email:_ fayzullarakhmatullayev@gmail.com
 - _Telegram:_ https://t.me/fayzulla_r
 - _Github:_ https://github.com/fayzullarakhmatullayev
-  [Linkedin](https://www.linkedin.com/in/fayzulla-rahmatullaev-75b45b237/)
+- [Linkedin](https://www.linkedin.com/in/fayzulla-rahmatullaev-75b45b237/)
 
 ---
 
