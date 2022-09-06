@@ -1,4 +1,4 @@
-## _Fayzulla Rakhmatullayev_
+# _Fayzulla Rakhmatullayev_
 
 ## Frontend Developer
 
