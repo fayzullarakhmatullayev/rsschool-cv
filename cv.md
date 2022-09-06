@@ -7,8 +7,8 @@
 - _Location:_ Tashkent, Uzbekistan
 - _Phone:_ +998998904940
 - _Email:_ fayzullarakhmatullayev@gmail.com
-- _Telegram:_ https://t.me/fayzulla_r
-- _Github:_ https://github.com/fayzullarakhmatullayev
+- _Telegram:_ [https://t.me/fayzulla_r](https://t.me/fayzulla_r)
+- _Github:_ [https://github.com/fayzullarakhmatullayev](https://github.com/fayzullarakhmatullayev)
 - [Linkedin](https://www.linkedin.com/in/fayzulla-rahmatullaev-75b45b237/)
 
 ---
