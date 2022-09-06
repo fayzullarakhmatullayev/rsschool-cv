@@ -123,16 +123,18 @@ body {
 /* experience */
 .experience {
   list-style: none;
+  margin-bottom: 20px;
 }
 .experience > li {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   font-style: italic;
 }
 .experience > li img {
   display: block;
   margin-right: 1rem;
+  width: 20px;
 }
 
 .experience-title p {
