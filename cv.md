@@ -1,9 +1,10 @@
-#_Fayzulla Rakhmatullayev_
-###Frontend Developer
+## _Fayzulla Rakhmatullayev_
+
+## Frontend Developer
 
 ---
 
-###Contacts:
+### Contacts:
 
 - _Location:_ Tashkent, Uzbekistan
 - _Phone:_ +998998904940
@@ -14,7 +15,8 @@
 
 ---
 
-###Career objectives
+### Career objectives
+
 Web Developer with experience, with a passion for helping companies
 create unique web applications. Passion for learning and
 development with a desire to apply their skills to a larger
@@ -23,7 +25,8 @@ continue to look for ways to improve productivity.
 
 ---
 
-###Experience
+### Experience
+
 **Position:** Frontend Developer
 **Company name:** Prospect
 **Location:** Tashkent, Uzbekistan
@@ -40,7 +43,7 @@ _Responsibilities:_
 
 ---
 
-###Skills and Proficiency:
+### Skills and Proficiency:
 
 - HTML5, CSS3 / SCSS
 - Java Script
@@ -53,7 +56,8 @@ _Responsibilities:_
 
 ---
 
-###Code example:
+### Code example:
+
 **Human Readable Time from CODEWARS**
 _**Description:**_
 Write a function, which takes a non-negative integer (seconds) as input and returns the time in a human-readable format (HH:MM:SS)
@@ -79,7 +83,7 @@ function formatDate(n){
 
 ---
 
-###Courses:
+### Courses:
 
 - Vladilen Minin: Author's online course in Vue.js 3
 - Zero To Mastery Udemy course: Complete React Developer (w/ Redux, Hooks)
@@ -89,7 +93,7 @@ function formatDate(n){
 
 ---
 
-###Languages:
+### Languages:
 
 - Uzbek - Native
 - English - Upper-intermediate
